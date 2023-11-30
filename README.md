@@ -1,6 +1,6 @@
 # 3-Knowledge-base
 
-> Третий проект с шаблона <a href="[https://www.figma.com/file/NxwBBM65jdwyCnI3aM2AE5/Cld?type=design&node-id=406480-4006&mode=design&t=q5CYZch3AEVuz3uY-0](https://www.figma.com/file/KvHDEJ5VEjFR7uAyezZM0L/%D0%91%D0%B0%D0%B7%D0%B0-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9---%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?type=design&node-id=0-1&mode=design&t=MHwxkuOLwwFjzrjR-0)https://www.figma.com/file/KvHDEJ5VEjFR7uAyezZM0L/%D0%91%D0%B0%D0%B7%D0%B0-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9---%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?type=design&node-id=0-1&mode=design&t=MHwxkuOLwwFjzrjR-0" target="_blank">База знаний</a>
+> Третий проект с шаблона <a href="https://www.figma.com/file/NxwBBM65jdwyCnI3aM2AE5/Cld?type=design&node-id=406480-4006&mode=design&t=q5CYZch3AEVuz3uY-0](https://www.figma.com/file/KvHDEJ5VEjFR7uAyezZM0L/%D0%91%D0%B0%D0%B7%D0%B0-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9---%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?type=design&node-id=0-1&mode=design&t=MHwxkuOLwwFjzrjR-0)https://www.figma.com/file/KvHDEJ5VEjFR7uAyezZM0L/%D0%91%D0%B0%D0%B7%D0%B0-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9---%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5?type=design&node-id=0-1&mode=design&t=MHwxkuOLwwFjzrjR-0" target="_blank">База знаний</a>
 
 > Что сделано:
 
